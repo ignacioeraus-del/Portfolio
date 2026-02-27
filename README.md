@@ -3,7 +3,7 @@
 
 ## 👋 About Me
 
-Warehouse Manager with [X]+ years optimizing inventory operations and supply chain processes. Currently transitioning to Data Analytics with specialization in Supply Chain & Inventory Intelligence.
+Transitioning to Data Analytics with specialization in Supply Chain & Inventory Intelligence.
 
 I combine deep operational experience with emerging technical skills to solve real-world supply chain challenges through data.
 
@@ -59,7 +59,7 @@ Demand forecasting and inventory optimization scripts.
 
 - LinkedIn: nacho-erausquin-3866b93a9
 - Email: ignacioeraus@gmail.com
-- Location: [Tu ciudad, España]
+- Location: Lérida, Catalonia. Spain.
 
 ---
 
